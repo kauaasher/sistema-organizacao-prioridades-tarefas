@@ -131,7 +131,7 @@ python Sistema_de_Organizacao_de_Prioridades.py
 
 ## Integrantes
 
-- Gabriel Coimbra Pajola Bernardi
+- [Gabriel Coimbra Pajola Bernardi](https://github.com/gcoimbra28)
 - [Gustavo Souza Recouso](https://github.com/GustavoRecouso)
 - [Kauã Asher Ribeiro da Silva](https://github.com/kauaasher)
 - [Kauan Barros Batista](https://github.com/KauanBarros-hub)
