@@ -129,7 +129,7 @@ python Sistema_de_Organizacao_de_Prioridades.py
 
 ---
 
-## 👨‍💻 Integrantes
+## Integrantes
 
 - Gabriel Coimbra Pajola Bernardi
 - Gustavo Souza Recouso
@@ -139,7 +139,7 @@ python Sistema_de_Organizacao_de_Prioridades.py
 
 ---
 
-## 🏫 Universidade
+## Universidade
 
 Universidade Católica de Santos — UNISANTOS
 
@@ -149,6 +149,6 @@ Cursos:
 
 ---
 
-## 📄 Licença
+## Licença
 
 Projeto desenvolvido para fins acadêmicos.
