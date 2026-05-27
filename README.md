@@ -77,11 +77,8 @@ Cada linha da matriz representa uma tarefa cadastrada:
 
 ## Fluxograma Simplificado do Sistema
 
-Adicione aqui a imagem do fluxograma do projeto:
-
-```md
 ![Fluxograma](fluxograma.png)
-```
+
 
 ---
 
